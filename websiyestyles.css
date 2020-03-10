@@ -21,6 +21,12 @@ h2{
 .h01 {
     font-size: 75px;
     text-align: left;
-    color: floralwhite
+    color: floralwhite;
+    font-family: sans-serif 
+}
+
+P {
+    color:aliceblue;
+    font-size: 40px;
     
 }
