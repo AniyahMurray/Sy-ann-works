@@ -20,6 +20,8 @@ h2{
 
 .h01 {
     font-size: 75px;
+     border-style:solid;
+    border-color: antiquewhite;
     text-align: center;
     color: floralwhite;
     font-family: sans-serif 
