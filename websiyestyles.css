@@ -45,6 +45,7 @@ li{
     background-color: white;
 }
 
-.p01 {
-    text-align: right;
+#pot {
+    color:yellow;
+    text-align:inherit;
 }
