@@ -47,5 +47,6 @@ li{
 
 #pot {
     color:yellow;
-    text-align:inherit;
+    text-align:center;
+    font-size:15px;
 }
