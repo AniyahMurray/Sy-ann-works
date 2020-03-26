@@ -21,8 +21,7 @@ h2{
 
 .h01 {
     font-size: 75px;
-     border-style:solid;
-    border-color: antiquewhite;
+    text-decoration: underline;
     text-align: center;
     color: floralwhite;
     font-family: sans-serif 
@@ -38,12 +37,17 @@ P {
 ul {
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding:0;
+
 }
 
 li{
-    display:inline;
-    background-color: white;
+    float:inherit;
+}
+
+a{
+    display: block;
+    padding: 8px;
 }
 
 #pot {
