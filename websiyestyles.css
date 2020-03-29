@@ -43,18 +43,26 @@ ul {
 
 li{
     float:inherit;
+    
 }
 
-a{
-    display: block;
-    padding: 8px;
-}
 
 #pot {
     color:yellow;
     text-align:center;
     font-size:15px;
 }
+
+
+
+
+
+
+
+
+
+
+
 
 
 https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css
