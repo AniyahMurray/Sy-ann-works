@@ -27,10 +27,20 @@ h2{
     font-family: sans-serif 
 }
 
+pre{
+    text-align: center;
+    color:aliceblue;
+    font-size:20px;
+    font-family: serif;
+    font-feature-settings: normal;
+    
+}
+
 P {
-    color:yellow;
+    color:aliceblue;
     font-size: 20px;
-    font-family: serif
+    font-family: serif;
+    text-align: center;
     
 }
 
