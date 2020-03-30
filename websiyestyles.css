@@ -11,6 +11,7 @@ h1{
     font-size: 80px;
     font-family:fantasy;
     text-align:center;
+    text-shadow: 2px 2px 2px 2px 2px red;
 }
 
 h2{
